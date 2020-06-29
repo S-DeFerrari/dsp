@@ -3,9 +3,12 @@
 **first we need to find the means**
 
 firsts.totalwgt_lb.mean(), others.totalwgt_lb.mean()
+
 (7.201094430437772, 7.325855614973262)
 
 **Now we just use the function**
+
 CohenEffectSize(firsts.totalwgt_lb, others.totalwgt_lb)
+
 -0.088672927072602
 
